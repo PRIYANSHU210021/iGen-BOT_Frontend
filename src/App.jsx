@@ -170,9 +170,9 @@ function App() {
         </div>
 
       </div>
-      <div className="absolute bottom-4 right-4 text-sm text-gray-500 space-x-4">
-    <span>Rohit Negi Sir Model</span>
-    {/* <span>Open Source</span> */}
+      <div className="absolute bottom-4 right-4 text-xs text-gray-500 space-x-2">
+    <span>Negi Sir Model</span>
+    <span>By Priyanshu</span>
     {/* <span>Contact Us</span> */}
     <span>v1.0</span>
   </div>
